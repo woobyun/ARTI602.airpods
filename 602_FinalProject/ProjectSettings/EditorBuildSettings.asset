@@ -4,8 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/House.unity
+    guid: b1b6d03c45b8b466da4ca209dd538440
+  - enabled: 0
+    path: Assets/Create-with-VR-Starter-Scene.unity
+    guid: 5c0a2965a6a9d44ac8b4e4b9548df98a
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 910b15e070fe84b35a0b074bca2203c2, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5aa873a049fab452e93626b1bdbcc9d7, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5e8a673a3ca0046b4b0dfcc6ee2f138f, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 64836286b72fb4769b32d580b6d02525, type: 2}
   m_UseUCBPForAssetBundles: 0
