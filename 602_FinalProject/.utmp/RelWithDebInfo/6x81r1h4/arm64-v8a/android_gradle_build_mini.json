@@ -6,14 +6,14 @@
   ],
   "cleanCommandsComponents": [
     [
-      "/Applications/Unity/Hub/Editor/6000.0.24f1/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
+      "/Applications/Unity/Hub/Editor/6000.0.30f1/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
       "-C",
       "/Users/Woohee/Desktop/602 Amany/Final Project/ARTI602.airpods/602_FinalProject/.utmp/RelWithDebInfo/6x81r1h4/arm64-v8a",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
-    "/Applications/Unity/Hub/Editor/6000.0.24f1/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
+    "/Applications/Unity/Hub/Editor/6000.0.30f1/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
     "-C",
     "/Users/Woohee/Desktop/602 Amany/Final Project/ARTI602.airpods/602_FinalProject/.utmp/RelWithDebInfo/6x81r1h4/arm64-v8a",
     "{LIST_OF_TARGETS_TO_BUILD}"
